@@ -24,11 +24,7 @@ The main goal of this project is to predict diseases based on symptoms inputted 
 - Real-time Updates: Incorporate real-time data updates and medical database integration.
 - User Profiles: Implement user profiles for personalized recommendations.
 - Interactive Features: Add features like symptom severity sliders and multi-lingual support.
-### Links
-- GitHub Code: 
-- Dataset link: https://drive.google.com/drive/folders/1KvjW3k79J0q77o_lQsxd6WluTu84mLmx?usp=sharing
-- LinkedIn link: https://www.linkedin.com/posts/k-trimal-rao-397924253_healthcare-machinelearning-flask-activity-7217209249683165184-DxMP?utm_source=share&utm_medium=member_desktop
-- Azure Deployment: https://symptomsprediction.azurewebsites.net/
+
 
 
 # <----------------------------------------------------------------------------------------------------------------------------------->
